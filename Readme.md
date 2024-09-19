@@ -39,16 +39,16 @@ Bu proje, küçük ekipler için görevleri yönetmeye yardımcı olan bir Disco
 
 1. **Görev Ekleme**
     Yeni bir görev eklemek için:
-    $add_task <açıklama>
+    !add_task <açıklama>
 
 2. **Görev Silme**
     Bir görevi silmek için görev ID'sini kullanın:
-    $delete_task <görev_id>
+    !delete_task <görev_id>
 
 3. **Görevleri Gösterme**
     Tüm görevleri görüntülemek için:
-    $show_tasks
+    !show_tasks
 
 4. **Görev Tamamlama**
     Bir görevi tamamlanmış olarak işaretlemek için:
-    $complete_task <görev_id>
+    !complete_task <görev_id>
